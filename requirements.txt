@@ -1,0 +1,20 @@
+# Python 3.9
+
+# testing solutions
+pytest              == 6.2.3
+requests            == 2.26.0
+
+# for api
+gunicorn            == 20.1.0
+requests            == 2.26.0
+ujson               == 4.1.0
+urllib3             == 1.26.6
+attrs               == 20.3.0
+
+# for db
+yoyo-migrations     == 7.3.2
+peewee              == 3.15.0
+psycopg2-binary     == 2.9.3
+
+# others
+python-dotenv       == 0.19.0
